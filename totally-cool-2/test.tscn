@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://bxo8lmabju8vq"]
 
-[ext_resource type="Texture2D" uid="uid://21hurx3eeljv" path="res://Assets/New Piskel-1.png.png" id="1_8uh7m"]
+[ext_resource type="Texture2D" uid="uid://21hurx3eeljv" path="res://Assets/strawberry.png" id="1_8uh7m"]
 [ext_resource type="Script" uid="uid://d2off5qw610bs" path="res://strawberry1.gd" id="2_8uh7m"]
 
 [node name="Node2D" type="Node2D" unique_id=1002657509]

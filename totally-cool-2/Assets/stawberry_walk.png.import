@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://21hurx3eeljv"
-path="res://.godot/imported/New Piskel-1.png.png-8f6d42e63b16e95e40fa034040f53d9a.ctex"
+uid="uid://cg3qltuvjjhea"
+path="res://.godot/imported/stawberry_walk.png-b02e25a73ed8e8741b38a50f3b1518bc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/New Piskel-1.png.png"
-dest_files=["res://.godot/imported/New Piskel-1.png.png-8f6d42e63b16e95e40fa034040f53d9a.ctex"]
+source_file="res://Assets/stawberry_walk.png"
+dest_files=["res://.godot/imported/stawberry_walk.png-b02e25a73ed8e8741b38a50f3b1518bc.ctex"]
 
 [params]
 
